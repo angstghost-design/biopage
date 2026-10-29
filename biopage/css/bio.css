@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(79, 16, 79);
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: rgb(32, 32, 32);
+    color: rgb(146, 31, 104);
+}
+
+p{
+    background-color: rgb(114, 111, 111);
+    text-align: center;
+}
+
+section{
+    margin: 25px;
+}
